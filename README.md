@@ -6,6 +6,8 @@ The counter value is updated whenever a message is received from any single clie
 
 You can find the Flutter client for this project [here](https://github.com/0xharkirat/flutter_websockets).
 
+![image](websockets-demo.gif)
+
 ## Instructions to Run Locally
 
 1. Clone the repository:
