@@ -1,4 +1,6 @@
 # WebSocket Demo
+This is a simple counter WebSocket server that broadcasts counter updates to all connected clients.
+The counter value is updated whenever a message is received from any single client.
 
 ## Flutter Client
 
